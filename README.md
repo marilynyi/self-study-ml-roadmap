@@ -25,9 +25,9 @@ Collection of online learning resources to document self-teaching journey
 ## ✅ **completed**
 | category | link | name | notes | certificate |
 | --: | :--: | :-- | :-- | :--: |
-| python | [💻](https://www.udemy.com/course/automate/) | automate the boring stuff | | [🎓](https://www.udemy.com/certificate/UC-99a74a71-7d7b-48fd-8482-9607312ce24b/)
-| python | [💻](https://cs50.harvard.edu/python/2022/) | cs50p: introduction to programming w/ python | - why may 2023 commits are high <br /> - course projects are not provided following [code of conduct](https://cs50.harvard.edu/python/2022/honesty/) except for my [final project: in-n-out calorie tracker](https://github.com/marilynyi/in-n-out-calorie-tracker) | [🎓](https://certificates.cs50.io/4f2fd42f-3aec-45ef-be7e-6964693ee369.png?size=letter)
-| python | [💻](https://www.dataquest.io/path/apis-and-web-scraping-with-python-skill-path/) | dataquest's apis and web scraping w/ python | | [🎓](https://app.dataquest.io/view_cert/X1WFRG9EF616XRLOAHRG) |
+| python | [💻](https://www.udemy.com/course/automate/) | automate the boring stuff | | [🎓](https://github.com/marilynyi/self-study-ML-curriculum/blob/main/certificates/automate-the-boring-stuff-with-python.jpg)
+| python | [💻](https://cs50.harvard.edu/python/2022/) | cs50p: introduction to programming w/ python | - why may 2023 commits are high <br /> - course projects are not provided following [code of conduct](https://cs50.harvard.edu/python/2022/honesty/) except for my [final project: in-n-out calorie tracker](https://github.com/marilynyi/in-n-out-calorie-tracker) | [🎓](https://github.com/marilynyi/self-study-ML-curriculum/blob/main/certificates/CS50P.png)
+| python | [💻](https://www.dataquest.io/path/apis-and-web-scraping-with-python-skill-path/) | dataquest's apis and web scraping w/ python | | [🎓](https://github.com/marilynyi/self-study-ML-curriculum/blob/main/certificates/dataquest-apis-and-web-scraping-with-python.pdf) |
 | sql | [🔐](https://sqlbolt.com/) | sqlbolt |
 
 
