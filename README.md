@@ -10,7 +10,6 @@ Collection of online learning resources to document self-teaching journey
 
 | category | link | name | 
 | --: | :--: | :-- | 
-| ai | [💻](https://www.elementsofai.com/) | elements of ai | 
 | ai | [📕](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997) | artificial intelligence: a modern approach (4th ed) | 
 | computer science | [📕](https://www.amazon.com/Programmers-Guide-Computer-Science-self-taught/dp/195120400X) | a programmer's guide to computer science vol. 1 |
 | data science | [💻](https://www.dataquest.io/path/data-scientist/) | [dataquest's data scientist](https://github.com/marilynyi/dataquest-data-scientist) |
@@ -25,6 +24,7 @@ Collection of online learning resources to document self-teaching journey
 ## ✅ **completed**
 | category | link | name | notes | certificate |
 | --: | :--: | :-- | :-- | :--: |
+| ai | [💻](https://www.elementsofai.com/) | elements of ai | one of two foundational courses | [🎓](https://github.com/marilynyi/self-study-ml-progress/blob/main/certificates/elements-of-ai--intro-to-ai.png)
 | python | [💻](https://www.udemy.com/course/automate/) | automate the boring stuff | | [🎓](https://github.com/marilynyi/self-study-ML-curriculum/blob/main/certificates/automate-the-boring-stuff-with-python.jpg)
 | python | [💻](https://cs50.harvard.edu/python/2022/) | cs50p: introduction to programming w/ python | - why may 2023 commits are high <br /> - course projects are not provided following [code of conduct](https://cs50.harvard.edu/python/2022/honesty/) except for my [final project: in-n-out calorie tracker](https://github.com/marilynyi/in-n-out-calorie-tracker) | [🎓](https://github.com/marilynyi/self-study-ML-curriculum/blob/main/certificates/CS50P.png)
 | python | [💻](https://www.dataquest.io/path/apis-and-web-scraping-with-python-skill-path/) | dataquest's apis and web scraping w/ python | | [🎓](https://github.com/marilynyi/self-study-ML-curriculum/blob/main/certificates/dataquest-apis-and-web-scraping-with-python.pdf) |
