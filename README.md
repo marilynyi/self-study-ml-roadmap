@@ -1,4 +1,4 @@
-# self-study-ml-progressself-study-ml-curriculum
+# self-study-ml-progress
 Collection of online learning resources to document self-teaching journey
 
 - self-compiled study materials by **progress status**
