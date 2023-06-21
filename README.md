@@ -17,7 +17,6 @@ Collection of online learning resources to document self-teaching journey
 | python | [💻](https://www.udemy.com/course/100-days-of-code/) | [100 days of code: python bootcamp](https://github.com/marilynyi/100-days-of-code-python) |
 | machine learning | [💻](https://www.coursera.org/specializations/machine-learning-introduction#courses) | machine learning - andrew ng |
 | machine learning | [💻](https://www.udemy.com/course/machinelearning/) | [machine learning a-z](https://github.com/marilynyi/machine-learning-a-z) |
-| sql | [💻](https://www.dataquest.io/path/sql-skills/) | dataquest's sql fundamentals |
 | sql | [🔐](https://pgexercises.com/) | postgresql exercises |
 
 
@@ -28,7 +27,7 @@ Collection of online learning resources to document self-teaching journey
 | python | [💻](https://www.udemy.com/course/automate/) | automate the boring stuff | | [🎓](https://github.com/marilynyi/self-study-ML-curriculum/blob/main/certificates/automate-the-boring-stuff-with-python.jpg)
 | python | [💻](https://cs50.harvard.edu/python/2022/) | cs50p: introduction to programming w/ python | - why may 2023 commits are high <br /> - course projects are not provided following [code of conduct](https://cs50.harvard.edu/python/2022/honesty/) except for my [final project: in-n-out calorie tracker](https://github.com/marilynyi/in-n-out-calorie-tracker) | [🎓](https://github.com/marilynyi/self-study-ML-curriculum/blob/main/certificates/CS50P.png)
 | python | [💻](https://www.dataquest.io/path/apis-and-web-scraping-with-python-skill-path/) | dataquest's apis and web scraping w/ python | | [🎓](https://github.com/marilynyi/self-study-ML-curriculum/blob/main/certificates/dataquest-apis-and-web-scraping-with-python.pdf) |
-| sql | [🔐](https://sqlbolt.com/) | sqlbolt |
+| sql | [💻]([https://www.dataquest.io/path/apis-and-web-scraping-with-python-skill-path/](https://github.com/marilynyi/dataquest-sql-fundamentals)) | dataquest's sql fundamentals | | [🎓](https://github.com/marilynyi/self-study-ml-progress/blob/main/certificates/dataquest-sql-fundamentals.pdf) |
 
 
 
