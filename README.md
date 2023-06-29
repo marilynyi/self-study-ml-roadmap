@@ -12,10 +12,10 @@ Collection of online learning resources to document self-teaching journey
 | :-- | :-- | :-- | 
 | Data Science | [Dataquest](https://www.dataquest.io/path/data-scientist/) | [Data Scientist](https://github.com/marilynyi/dataquest-data-scientist) |
 | Data Science | [Coursera](https://www.coursera.org/specializations/boulder-data-structures-algorithms) | Data Science Foundations: Data Structures and Algorithms |
-| Python | [Udemy](https://www.udemy.com/course/100-days-of-code/) | [100 Days of Code: Python](https://github.com/marilynyi/100-days-of-code-python) |
-| Machine Learning | [Coursera](https://www.coursera.org/specializations/machine-learning-introduction#courses) | Machine Learning |
 | Machine Learning | [Udemy](https://www.udemy.com/course/machinelearning/) | [Machine Learning A-Z](https://github.com/marilynyi/machine-learning-a-z) |
-| Neuroscience | [edX](https://www.edx.org/course/fundamentals-of-neuroscience-part-1-the-electrical) | Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron |
+| Machine Learning | [Coursera](https://www.coursera.org/specializations/deep-learning#courses) | Deep Learning |
+| Machine Learning | [Udemy](https://www.udemy.com/course/deeplearning/) | Deep Learning A-Z
+| Python | [Udemy](https://www.udemy.com/course/100-days-of-code/) | [100 Days of Code: Python](https://github.com/marilynyi/100-days-of-code-python) |
 | SQL | [PGExercises](https://pgexercises.com/) | Postgresql exercises |
 
 ## ️📚 **Actively reading**
@@ -28,6 +28,7 @@ Collection of online learning resources to document self-teaching journey
 | Category | Link | Name | Cert |
 | :-- | :-- | :-- | :--: |
 | AI | [Elements of AI](https://www.elementsofai.com/) | Intro to AI | [🎓](https://github.com/marilynyi/self-study-ml-progress/blob/main/certificates/elements-of-ai--intro-to-ai.png)
+| Machine Learning | [Coursera](https://www.coursera.org/specializations/machine-learning-introduction#courses) | Machine Learning | [🎓](https://github.com/marilynyi/self-study-ml-progress/blob/main/certificates/machine-learning-coursera.pdf)
 | Python | [Udemy](https://www.udemy.com/course/automate/) | Automate the Boring Stuff | [🎓](https://github.com/marilynyi/self-study-ML-curriculum/blob/main/certificates/automate-the-boring-stuff-with-python.jpg)
 | Python | [edX](https://cs50.harvard.edu/python/2022/) | CS50P: Introduction to Programming w/ Python <br> - [Final Project: In-n-Out Calorie Tracker](https://github.com/marilynyi/in-n-out-calorie-tracker) | [🎓](https://github.com/marilynyi/self-study-ML-curriculum/blob/main/certificates/CS50P.png)
 | Python | [Dataquest](https://www.dataquest.io/path/apis-and-web-scraping-with-python-skill-path/) | APIs and Web Scraping w/ Python | [🎓](https://github.com/marilynyi/self-study-ML-curriculum/blob/main/certificates/dataquest-apis-and-web-scraping-with-python.pdf) |
