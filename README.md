@@ -6,9 +6,9 @@ Collection of online learning resources to document self-teaching journey
 - Hyperlinked public repos, if applicable, to the names
 - Contents are subject to change
 
-## ️💻 **Actively studying**
+## ️💻 **actively studying**
 
-| Category | Link | Name (and GitHub repo, if applicable) | 
+| category | link | name (and GitHub repo, if applicable) | 
 | :-- | :-- | :-- | 
 | Data Science | [Dataquest](https://www.dataquest.io/path/data-scientist/) | [Data Scientist](https://github.com/marilynyi/dataquest-data-scientist) |
 | Machine Learning | [Udemy](https://www.udemy.com/course/machinelearning/) | [Machine Learning A-Z](https://github.com/marilynyi/machine-learning-a-z) |
@@ -17,14 +17,14 @@ Collection of online learning resources to document self-teaching journey
 | Python | [Udemy](https://www.udemy.com/course/100-days-of-code/) | [100 Days of Code: Python](https://github.com/marilynyi/100-days-of-code-python) |
 | SQL | [PGExercises](https://pgexercises.com/) | Postgresql exercises |
 
-## ️📚 **Actively reading**
-| Category | Link | Name | 
+## ️📖 **actively reading**
+| category | link | name | 
 | :-- | :-- | :-- | 
 | AI | [📖](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997) | Artificial Intelligence: A Modern Approach (4th ed.) | 
 | Computer Science | [📖](https://www.amazon.com/Programmers-Guide-Computer-Science-self-taught/dp/195120400X) | A Programmer's Guide to Computer Science vol. 1 |
 
-## ✅ **Completed**
-| Category | Link | Name | Cert |
+## ✅ **completed**
+| category | link | name | cert |
 | :-- | :-- | :-- | :--: |
 | AI | [Elements of AI](https://www.elementsofai.com/) | Intro to AI | [🔖](https://github.com/marilynyi/self-study-ml-progress/blob/main/certificates/elements-of-ai--intro-to-ai.png)
 | Machine Learning | [Coursera](https://www.coursera.org/specializations/machine-learning-introduction#courses) | Machine Learning | [🔖](https://github.com/marilynyi/self-study-ml-progress/blob/main/certificates/machine-learning-coursera.pdf)
