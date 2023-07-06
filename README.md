@@ -33,6 +33,16 @@ Collection of online learning resources to document self-teaching journey
 | Python | [Dataquest](https://www.dataquest.io/path/apis-and-web-scraping-with-python-skill-path/) | APIs and Web Scraping w/ Python | [🔖](https://github.com/marilynyi/self-study-ML-curriculum/blob/main/certificates/dataquest-apis-and-web-scraping-with-python.pdf) |
 | SQL | [Dataquest](https://www.dataquest.io/path/sql-skills) | [SQL Fundamentals](https://github.com/marilynyi/dataquest-sql-fundamentals) | [🔖](https://github.com/marilynyi/self-study-ml-progress/blob/main/certificates/dataquest-sql-fundamentals.pdf) |
 
+## ️⏸️ **in the queue**
+| category | link | name | 
+| :-- | :-- | :-- | 
+| Machine Learning | [Udemy](https://www.udemy.com/course/xgboost-deep-dive-hands-on-machine-learning-data-science/) | XGBoost Deep Dive w/ Python and Pandas | 
+| Machine Learning | [📖](https://www.amazon.com/_/dp/1098125975) | Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow |
+| Machine Learning | [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Natural Language Processing |
+| Microsoft Azure | [Microsoft](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) | Microsoft Azure Fundamentals |
+| Machine Learning | [📖](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) | Deep Learning |
+| Computer Science | [📖](https://www.amazon.com/Programmers-Guide-Computer-Science-Vol/dp/1951204042) | A Programmer's Guide to Computer Science vol. 2 |
+
 
 
 
