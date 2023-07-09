@@ -10,6 +10,7 @@ Collection of online learning resources to document self-teaching journey
 
 | category | link | name (and GitHub repo, if applicable) | 
 | :-- | :--: | :-- | 
+| AI | [Coursera](https://www.coursera.org/specializations/ai-for-good) | AI for Good |
 | Data Science | [Dataquest](https://www.dataquest.io/path/data-scientist/) | [Data Scientist](https://github.com/marilynyi/dataquest-data-scientist) |
 | Machine Learning | [Coursera](https://www.coursera.org/specializations/deep-learning#courses) | Deep Learning |
 | Machine Learning | [Udemy](https://www.udemy.com/course/deeplearning/) | Deep Learning A-Z
