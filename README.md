@@ -37,6 +37,7 @@ Collection of online learning resources to document self-teaching journey
 ## ️⏸️ **in the queue**
 | category | link | name | 
 | :-- | :--: | :-- | 
+| Data Science | [📖](https://www.statlearning.com/) | An Introduction to Statistical Learning w/ Python |
 | Machine Learning | [Udemy](https://www.udemy.com/course/xgboost-deep-dive-hands-on-machine-learning-data-science/) | XGBoost Deep Dive w/ Python and Pandas | 
 | Machine Learning | [📖](https://www.amazon.com/_/dp/1098125975) | Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow |
 | Machine Learning | [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Natural Language Processing |
