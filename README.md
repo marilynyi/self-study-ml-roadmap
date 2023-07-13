@@ -9,7 +9,7 @@ Collection of online learning resources to document self-teaching journey
 ## ️💻 **actively studying**
 
 | category | link | name (and GitHub repo, if applicable) | 
-| :-- | :--: | :-- | 
+| :--: | :--: | :-- | 
 | Data Science | [Dataquest](https://www.dataquest.io/path/data-scientist/) | [Data Scientist](https://github.com/marilynyi/dataquest-data-scientist) |
 | Machine Learning | [Coursera](https://www.coursera.org/specializations/deep-learning#courses) | Deep Learning |
 | Machine Learning | [Udemy](https://www.udemy.com/course/deeplearning/) | Deep Learning A-Z
@@ -17,14 +17,14 @@ Collection of online learning resources to document self-teaching journey
 
 ## ️📖 **actively reading**
 | category | link | name | 
-| :-- | :--: | :-- | 
+| :--: | :--: | :-- | 
 | AI | [📖](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997) | Artificial Intelligence: A Modern Approach (4th ed.) | 
 | Computer Science | [📖](https://www.amazon.com/Programmers-Guide-Computer-Science-self-taught/dp/195120400X) | A Programmer's Guide to Computer Science vol. 1 |
 
 ## ✅ **completed**
 | category | link | name | cert |
-| :-- | :--: | :-- | :--: |
-| AI | [Coursera](https://www.coursera.org/specializations/ai-for-good) | AI for Good | [🔖](https://github.com/marilynyi/self-study-ml-progress/blob/main/certificates/ai-for-good-coursera.png)
+| :--: | :--: | :-- | :--: |
+| AI | [Coursera](https://www.coursera.org/specializations/ai-for-good) | AI for Good | [🔖](https://github.com/marilynyi/self-study-ml-progress/blob/main/certificates/ai-for-good-coursera.pdf)
 | AI | [Elements of AI](https://www.elementsofai.com/) | Intro to AI | [🔖](https://github.com/marilynyi/self-study-ml-progress/blob/main/certificates/elements-of-ai--intro-to-ai.png)
 | Machine Learning | [Coursera](https://www.coursera.org/specializations/machine-learning-introduction#courses) | Machine Learning | [🔖](https://github.com/marilynyi/self-study-ml-progress/blob/main/certificates/machine-learning-coursera.pdf)
 | Machine Learning | [Udemy](https://www.udemy.com/course/machinelearning/) | [Machine Learning A-Z](https://github.com/marilynyi/machine-learning-a-z) | [🔖](https://github.com/marilynyi/self-study-ml-progress/blob/main/certificates/udemy-machine-learning-a-z.pdf)
@@ -36,7 +36,7 @@ Collection of online learning resources to document self-teaching journey
 
 ## ️⏸️ **in the queue**
 | category | link | name | 
-| :-- | :--: | :-- | 
+| :--: | :--: | :-- | 
 | Data Science | [📖](https://www.statlearning.com/) | An Introduction to Statistical Learning w/ Python |
 | Machine Learning | [Udemy](https://www.udemy.com/course/xgboost-deep-dive-hands-on-machine-learning-data-science/) | XGBoost Deep Dive w/ Python and Pandas | 
 | Machine Learning | [📖](https://www.amazon.com/_/dp/1098125975) | Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow |
