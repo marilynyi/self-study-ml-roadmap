@@ -20,6 +20,7 @@ Collection of online learning resources to document self-teaching journey
 | :--: | :--: | :-- | 
 | AI | [📖](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997) | Artificial Intelligence: A Modern Approach (4th ed.) | 
 | Computer Science | [📖](https://www.amazon.com/Programmers-Guide-Computer-Science-self-taught/dp/195120400X) | A Programmer's Guide to Computer Science vol. 1 |
+| Machine Learning | [📖](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) | Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow |
 
 ## ✅ **completed**
 | category | link | name | cert |
@@ -39,7 +40,6 @@ Collection of online learning resources to document self-teaching journey
 | :--: | :--: | :-- | 
 | Data Science | [📖](https://www.statlearning.com/) | An Introduction to Statistical Learning w/ Python |
 | Machine Learning | [Udemy](https://www.udemy.com/course/xgboost-deep-dive-hands-on-machine-learning-data-science/) | XGBoost Deep Dive w/ Python and Pandas | 
-| Machine Learning | [📖](https://www.amazon.com/_/dp/1098125975) | Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow |
 | Machine Learning | [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Natural Language Processing |
 | Microsoft Azure | [Microsoft](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) | Microsoft Azure Fundamentals |
 | Machine Learning | [📖](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618) | Deep Learning |
