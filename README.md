@@ -6,6 +6,8 @@ Collection of online learning resources to document self-teaching journey
 - Hyperlinked public repos, if applicable, to the names
 - Contents are subject to change
 
+>Note: All non-subscription based resources frequently go on sale e.g. $100 down to $15-30. Please advise if any look particularly interesting but appear to front a hefty cost. 
+
 ## ️💻 **actively studying**
 
 | category | link | name (and GitHub repo, if applicable) | 
