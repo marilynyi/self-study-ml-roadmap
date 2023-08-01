@@ -13,8 +13,8 @@ Collection of online learning resources to document self-teaching journey
 | category | link | name (and GitHub repo, if applicable) | 
 | :--: | :--: | :-- | 
 | Data Science | [Dataquest](https://www.dataquest.io/path/data-scientist/) | [Data Scientist](https://github.com/marilynyi/dataquest-data-scientist) |
-| Machine Learning | [Coursera](https://www.coursera.org/specializations/deep-learning#courses) | Deep Learning |
-| Machine Learning | [Udemy](https://www.udemy.com/course/deeplearning/) | Deep Learning A-Z
+| Machine Learning | [Coursera](https://www.coursera.org/specializations/deep-learning#courses) | Deep Learning<br><pre>✅ Neural Networks and Deep Learning<br>- Improving Deep Neural Networks<br>- Structuring Machine Learning Projects<br>- Convolutional Neural Networks<br>- Sequence Models</pre> |
+| Machine Learning | [Udemy](https://www.udemy.com/course/deeplearning/) | [Deep Learning A-Z](https://github.com/marilynyi/deep-learning-a-z)
 | Python | [Udemy](https://www.udemy.com/course/100-days-of-code/) | [100 Days of Code: Python](https://github.com/marilynyi/100-days-of-code-python) |
 
 ## ️📖 **actively reading**
@@ -40,6 +40,7 @@ Collection of online learning resources to document self-teaching journey
 ## ️⏸️ **in the queue**
 | category | link | name | 
 | :--: | :--: | :-- | 
+| AI | [Google Cloud](https://www.cloudskillsboost.google/course_templates/536) | Introduction to Generative AI
 | Data Science | [📖](https://www.statlearning.com/) | An Introduction to Statistical Learning w/ Python |
 | Machine Learning | [Udemy](https://www.udemy.com/course/xgboost-deep-dive-hands-on-machine-learning-data-science/) | XGBoost Deep Dive w/ Python and Pandas | 
 | Machine Learning | [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Natural Language Processing |
