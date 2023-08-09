@@ -20,8 +20,6 @@ Collection of online learning resources to document self-teaching journey
 ## ️📖 **actively reading**
 | category | link | name | 
 | :--: | :--: | :-- | 
-| AI | [📖](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997) | Artificial Intelligence: A Modern Approach (4th ed.) | 
-| Computer Science | [📖](https://www.amazon.com/Programmers-Guide-Computer-Science-self-taught/dp/195120400X) | A Programmer's Guide to Computer Science vol. 1 |
 | Machine Learning | [📖](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) | Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow |
 
 ## ✅ **completed**
@@ -41,6 +39,8 @@ Collection of online learning resources to document self-teaching journey
 | category | link | name | 
 | :--: | :--: | :-- | 
 | AI | [Google Cloud](https://www.cloudskillsboost.google/course_templates/536) | Introduction to Generative AI
+| AI | [📖](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997) | Artificial Intelligence: A Modern Approach (4th ed.) | 
+| Computer Science | [📖](https://www.amazon.com/Programmers-Guide-Computer-Science-self-taught/dp/195120400X) | A Programmer's Guide to Computer Science vol. 1 |
 | Data Science | [📖](https://www.statlearning.com/) | An Introduction to Statistical Learning w/ Python |
 | Machine Learning | [Udemy](https://www.udemy.com/course/xgboost-deep-dive-hands-on-machine-learning-data-science/) | XGBoost Deep Dive w/ Python and Pandas | 
 | Machine Learning | [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Natural Language Processing |
