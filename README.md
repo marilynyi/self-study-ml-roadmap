@@ -14,13 +14,11 @@ Collection of online learning resources to document self-teaching journey
 | :--: | :--: | :-- | 
 | Data Science | [Dataquest](https://www.dataquest.io/path/data-scientist/) | [Data Scientist](https://github.com/marilynyi/dataquest-data-scientist) |
 | Machine Learning | [Coursera](https://www.coursera.org/specializations/deep-learning#courses) | Deep Learning<br><pre>✅ Neural Networks and Deep Learning<br>- Improving Deep Neural Networks<br>- Structuring Machine Learning Projects<br>- Convolutional Neural Networks<br>- Sequence Models</pre> |
+| Machine Learning | [Kaggle](https://www.kaggle.com/) | 
 | Machine Learning | [Udemy](https://www.udemy.com/course/deeplearning/) | [Deep Learning A-Z](https://github.com/marilynyi/deep-learning-a-z)
+| Machine Learning | [📖](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) | Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow |
 | Python | [Udemy](https://www.udemy.com/course/100-days-of-code/) | [100 Days of Code: Python](https://github.com/marilynyi/100-days-of-code-python) |
 
-## ️📖 **actively reading**
-| category | link | name | 
-| :--: | :--: | :-- | 
-| Machine Learning | [📖](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) | Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow |
 
 ## ✅ **completed**
 | category | link | name | cert |
