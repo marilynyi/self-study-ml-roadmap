@@ -6,7 +6,7 @@ Collection of online learning resources to document self-teaching journey
 - Hyperlinked public repos, if applicable, to the names
 - Contents are subject to change
 
->Note: All non-subscription based resources frequently go on sale e.g. $100 down to $15-30. Please advise if any look particularly interesting but appear to front a hefty cost. 
+>Note: All non-subscription based courses frequently go on sale e.g. $100 down to $15. I have not purchased any at their full retail price.
 
 ## ️💻 **actively studying**
 
@@ -18,7 +18,6 @@ Collection of online learning resources to document self-teaching journey
 | Machine Learning | [Udemy](https://www.udemy.com/course/deeplearning/) | [Deep Learning A-Z](https://github.com/marilynyi/deep-learning-a-z)
 | Machine Learning | [📖](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/) | Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow |
 | Python | [Udemy](https://www.udemy.com/course/100-days-of-code/) | [100 Days of Code: Python](https://github.com/marilynyi/100-days-of-code-python) |
-
 
 ## ✅ **completed**
 | category | link | name | cert |
