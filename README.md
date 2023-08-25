@@ -12,6 +12,7 @@ Collection of online learning resources to document self-teaching journey
 
 | category | link | name (and GitHub repo, if applicable) | 
 | :--: | :--: | :-- | 
+| Cloud | [AWS](https://aws.amazon.com/certification/certified-cloud-practitioner/) | AWS Certified Cloud Practitioner |
 | Data Science | [Dataquest](https://www.dataquest.io/path/data-scientist/) | [Data Scientist](https://github.com/marilynyi/dataquest-data-scientist) |
 | Machine Learning | [Coursera](https://www.coursera.org/specializations/deep-learning#courses) | Deep Learning<br><pre>✅ Neural Networks and Deep Learning<br>- Improving Deep Neural Networks<br>- Structuring Machine Learning Projects<br>- Convolutional Neural Networks<br>- Sequence Models</pre> |
 | Machine Learning | [Kaggle](https://www.kaggle.com/) | 
@@ -38,6 +39,7 @@ Collection of online learning resources to document self-teaching journey
 | AI | [Google Cloud](https://www.cloudskillsboost.google/course_templates/536) | Introduction to Generative AI
 | AI | [📖](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997) | Artificial Intelligence: A Modern Approach (4th ed.) | 
 | Computer Science | [📖](https://www.amazon.com/Programmers-Guide-Computer-Science-self-taught/dp/195120400X) | A Programmer's Guide to Computer Science vol. 1 |
+| Data Analytics | [AWS](https://aws.amazon.com/certification/certified-data-analytics-specialty/) | AWS Certified Data Analytics |
 | Data Science | [📖](https://www.statlearning.com/) | An Introduction to Statistical Learning w/ Python |
 | Machine Learning | [Udemy](https://www.udemy.com/course/xgboost-deep-dive-hands-on-machine-learning-data-science/) | XGBoost Deep Dive w/ Python and Pandas | 
 | Machine Learning | [Coursera](https://www.coursera.org/specializations/natural-language-processing) | Natural Language Processing |
